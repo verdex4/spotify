@@ -5,4 +5,4 @@
 - dataset.csv: датасет spotify
 - eda.ipynb: разведочный анализ данных - EDA
 - feature_engineering.ipynb: создание новых признаков - feature engineering
-- model_experiments.ipynb: поиск и тест разных моделей
+- model_experiments.ipynb: тестирование разных ml-моделей, подбор гиперпараметров, поиск лучшей модели
